@@ -10,6 +10,7 @@
 <body>
     <?php
 $df = 'Krug zhizni';
+$lol = 0;
 echo($df);
 
 
